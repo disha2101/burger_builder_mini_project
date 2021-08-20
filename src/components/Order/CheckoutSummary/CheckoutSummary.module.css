@@ -1,0 +1,24 @@
+.CheckoutSummary{
+    text-align: center;
+    width:80%;
+    margin:auto;
+    font-weight: bolder;
+}
+.Success{
+    background-color:white;
+    color: green;
+    border-color: white;
+    font-weight: bolder;
+}
+.Danger{
+    background-color:white;
+    color:red;
+    font-weight: bolder;
+    border-color: white;
+    font-size: inherit;
+}
+@media(min-width:600px){
+    .CheckoutSummary{
+        width:'500px';
+    }
+}

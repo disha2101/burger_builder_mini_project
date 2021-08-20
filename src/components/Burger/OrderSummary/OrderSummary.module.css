@@ -1,0 +1,12 @@
+.Danger{
+    color:red;
+    background-color: transparent;
+}
+.Success{
+    color:green;
+    background-color: transparent;
+}
+.Order{
+    font-weight: bolder;
+    font: bolder;
+}
